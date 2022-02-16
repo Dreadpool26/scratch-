@@ -1,0 +1,4 @@
+dependencies {
+    // AppCompat version
+	  implementation 'com.github.myinnos:AndroidScratchCard:v1.0'
+}
