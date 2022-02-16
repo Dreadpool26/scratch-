@@ -1,0 +1,7 @@
+<com.cooltechworks.views.ScratchTextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:gravity="center|end"
+  android:text="@string/flat_200"
+  android:textSize="15sp"
+  android:textStyle="bold" />
